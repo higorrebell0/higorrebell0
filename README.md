@@ -1,5 +1,8 @@
 ### Hi there 👋
-My name is **Higor**. <br>The more I study how to write a good code, the more I want to continue thinking about solutions and coding. Let's learn and share!
+My name is **Higor**. 
+<br>The more I study how to write a good code, 
+<br>the more I want to continue thinking about solutions and coding. 
+<br>Let's learn and share!
 
 
 <!--
