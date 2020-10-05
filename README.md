@@ -1,8 +1,13 @@
-### Hi there 👋
+### Sup guys! 👋
 My name is **Higor**. 
 <br>The more I study how to write a good code, 
-<br>the more I want to continue thinking about solutions and coding. 
+<br>more I want to continue thinking about solutions and coding. 
 <br>Let's learn and share!
+<br>
+## 2020's goals
+#1 - Survive!
+<br>#2 - Consolidate the principles of good code 
+<br>and improve my software engineering skills.
 
 
 <!--
