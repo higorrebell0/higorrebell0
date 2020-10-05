@@ -4,7 +4,7 @@ My name is **Higor**, I'm a full stack developer. :computer:
 <br>more I want to continue thinking about solutions and coding. 
 <br>Let's learn and share!
 <br>
-## 2020's goals
+## 2020's goals :rocket:
 #1 - Survive!
 <br>#2 - Consolidate the principles of good code 
 <br>and improve my software engineering skills.
