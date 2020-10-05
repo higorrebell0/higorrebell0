@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is **Higor**. <br>The more I study how to write a good code, the more I want to continue thinking about solutions and coding. Let's learn and share!
+
 
 <!--
 **higorrebell0/higorrebell0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
