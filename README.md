@@ -1,5 +1,5 @@
 ### Sup guys! 👋
-My name is **Higor**. 
+My name is **Higor**, I'm a full stack developer. :computer:
 <br>The more I study how to write a good code, 
 <br>more I want to continue thinking about solutions and coding. 
 <br>Let's learn and share!
