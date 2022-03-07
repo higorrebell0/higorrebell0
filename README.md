@@ -1,5 +1,5 @@
 ### Sup guys! 👋
-My name is **Higor**, I'm a back-end developer @ kranio.io :computer:
+My name is **Higor**, I'm a software engineer @ kranio.io :computer:
 <br>Let's learn and share!
 <br>
 ## 2022's goals :rocket:
