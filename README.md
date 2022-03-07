@@ -1,9 +1,9 @@
 ### Sup guys! 👋
-My name is **Higor**, I'm a full stack developer. :computer:
+My name is **Higor**, I'm a back-end developer @ kranio.io :computer:
 <br>Let's learn and share!
 <br>
-## 2021's goals :rocket:
-#1 - Survive!
+## 2022's goals :rocket:
+#1 - Keep learning and sharing!
 <br>#2 - Consolidate the principles of good code 
 <br>and improve my software engineering skills.
 
