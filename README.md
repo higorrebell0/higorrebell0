@@ -2,7 +2,7 @@
 My name is **Higor**, I'm a software engineer @ kranio.io :computer:
 <br>Let's learn and share!
 <br>
-## 2022's goals :rocket:
+## 2024's goals :rocket:
 #1 - Keep learning and sharing!
 <br>#2 - Consolidate the principles of good code 
 <br>and improve my software engineering skills.
